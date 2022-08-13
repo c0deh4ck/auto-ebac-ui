@@ -1,0 +1,23 @@
+{
+  "name": "auto-ebac-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c0deh4ck/auto-ebac-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c0deh4ck/auto-ebac-ui/issues"
+  },
+  "homepage": "https://github.com/c0deh4ck/auto-ebac-ui#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
